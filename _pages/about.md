@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>E.T.S. de Ingeniería Informática.</p>
-  <p>Bulevar Louis Pasteur, 35. Campus de Teatinos.</p>
-  <p>Málaga, Spain</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
