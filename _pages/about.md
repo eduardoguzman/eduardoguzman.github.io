@@ -22,10 +22,13 @@ Associate Professor of Languages and Computer Science.
 Ph.D. in Computer Science and Artificial Intelligence. Universidad de Málaga (Spain).
 M.Sc. in Computer Science Engineering. Universidad de Málaga (Spain).
 
-##Research interests:
+##Research interests
 - Artificial Intelligence
 - Applied Data Science
 - Agent-Based Modeling and Simulation
 - User and Student Modeling
 - Adaptive Assessment
 - Information Extraction
+
+##Main publications
+[Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)
