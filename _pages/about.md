@@ -6,7 +6,7 @@ subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://ww
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>E.T.S. de Ingeniería Informática.</p>
@@ -18,8 +18,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Associate Professor of Languages and Computer Science.
+Ph.D. in Computer Science and Artificial Intelligence. Universidad de Málaga (Spain).
+M.Sc. in Computer Science Engineering. Universidad de Málaga (Spain).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+##Research interests:
+- Artificial Intelligence
+- Applied Data Science
+- Agent-Based Modeling and Simulation
+- User and Student Modeling
+- Adaptive Assessment
+- Information Extraction
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+##Main publications
+Google Scholar profile
+[Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)
