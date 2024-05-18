@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> 
+subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
