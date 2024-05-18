@@ -6,7 +6,7 @@ subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://ww
 
 profile:
   align: left
-  image: 
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>E.T.S. de Ingeniería Informática.</p>
