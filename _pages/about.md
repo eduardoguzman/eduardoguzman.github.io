@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Informática</a> | <a href='http://www.lcc.uma.es/'>Dpto. de Lenguajes y Ciencias de la Computación</a> | <a href='http://www.uma.es/'>Universidad de Málaga</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  <p>E.T.S. de Ingeniería Informática.</p>
+  <p>Bulevar Louis Pasteur, 35. Campus de Teatinos.</p>
+  <p>Málaga, Spain</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
