@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a>
+subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Informática</a> | <a href='http://www.lcc.uma.es/'>Dpto. de Lenguajes y Ciencias de la Computación</a> | <a href='http://www.uma.es/'>Universidad de Málaga</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-
+  <p>E.T.S. de Ingeniería Informática.</p>
+  <p>Bulevar Louis Pasteur, 35. Campus de Teatinos.</p>
+  <p>Málaga, Spain</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,7 +29,3 @@ M.Sc. in Computer Science Engineering. Universidad de Málaga (Spain).
 - User and Student Modeling
 - Adaptive Assessment
 - Information Extraction
-
-##Main publications
-Google Scholar profile
-[Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)
