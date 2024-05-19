@@ -16,5 +16,5 @@ nav_order: 6
 [//]: ## Previous teaching
 
 
-## Bachelor´s Degree Final Project
+## Bachelor´s degree final projects
 [Some of the final degree project supervised by me](https://jabega.uma.es/discovery/search?query=any,contains,eduardo%20guzman&tab=default&search_scope=MyInstitution&sortby=date_d&vid=34CBUA_UMA:VU1&facet=searchcreationdate,include,1999%7C,%7C2023&facet=rtype,exclude,articles&mfacet=creator,include,Guzmán%20De%20Los%20Riscos%20Eduardo,1&mfacet=creator,include,Guzmán%20De%20Los%20Riscos%20Eduardo%20Francisco,1&offset=0)
