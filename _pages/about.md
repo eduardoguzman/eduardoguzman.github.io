@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Informática</a> | <a href='http://www.lcc.uma.es/'>Dpto. de Lenguajes y Ciencias de la Computación</a> | <a href='http://www.uma.es/'>Universidad de Málaga</a>
 
 profile:
-  align: left
+  align: right
   image: guzman.png
   image_circular: true # crops the image to make it circular
   more_info:
@@ -24,7 +24,7 @@ M.Sc. in Computer Science Engineering. Universidad de Málaga (Spain).
 - Applied Data Science
 - Agent-Based Modeling and Simulation
 - Information Extraction
-- User and Student Modeling
+- User Modeling
 - Adaptive Assessment
 
 ## Main publications
