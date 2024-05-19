@@ -6,7 +6,7 @@ subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://ww
 
 profile:
   align: left
-  image:
+  image: guzman.png
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -23,9 +23,9 @@ M.Sc. in Computer Science Engineering. Universidad de Málaga (Spain).
 - Artificial Intelligence
 - Applied Data Science
 - Agent-Based Modeling and Simulation
+- Information Extraction
 - User and Student Modeling
 - Adaptive Assessment
-- Information Extraction
 
 ##Main publications
 [Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)
