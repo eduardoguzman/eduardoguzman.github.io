@@ -5,12 +5,13 @@ permalink: /
 subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Informática</a> | <a href='http://www.lcc.uma.es/'>Dpto. de Lenguajes y Ciencias de la Computación</a> | <a href='http://www.uma.es/'>Universidad de Málaga</a>
 
 profile:
-  align: left
+  align: right
   image: guzman2.png
   image_circular: true # crops the image to make it circular
   more_info:
 
 news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
