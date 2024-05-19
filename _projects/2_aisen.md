@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: AISEN
+description: Development and validation of an AI-based interactive environment for the assessment and optimization of executive functions and reading processes in developmental disorders
+img: assets/img/transdig.png
+redirect: https://iacomlab.github.io/projects/2_aisen/
+importance: 2
+category: research
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
