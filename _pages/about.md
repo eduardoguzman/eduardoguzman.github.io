@@ -16,14 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Associate Professor of Languages and Computer Science.
-Ph.D. in Computer Science and Artificial Intelligence. Universidad de Málaga (Spain).
-M.Sc. in Computer Science Engineering. Universidad de Málaga (Spain).
+I am Associate Professor of Languages and Computer Science at the department of Languages and Compute Science, in the School of Computer Science, Universidad de Málaga (Spain). I hold a Ph.D. and a M.Sc in Computer Science from this university. I work in [IACOMLAB](https://iacomlab.github.io) research team developing AI-based solutions to solve complex problems. We also develop full-stack web and mobile applications, most of which integrate AI-based technologies.
 
-## Research interests
-- Artificial Intelligence
+## Main research interests
 - Applied Data Science
 - Agent-Based Modeling and Simulation
+- Multiagent Reinforcement Learning
 - Information Extraction
 - User Modeling
 - Adaptive Assessment
