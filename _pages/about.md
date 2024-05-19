@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://www.informatica.uma.es/'>E.T.S. de Ingeniería Informática</a> | <a href='http://www.lcc.uma.es/'>Dpto. de Lenguajes y Ciencias de la Computación</a> | <a href='http://www.uma.es/'>Universidad de Málaga</a>
 
 profile:
-  align: right
-  image: guzman.png
+  align: left
+  image: guzman2.png
   image_circular: true # crops the image to make it circular
   more_info:
 
