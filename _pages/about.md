@@ -7,7 +7,7 @@ subtitle: <a href='https://iacomlab.github.io'>IACOMLAB</a> | <a href='http://ww
 profile:
   align: right
   image: guzman2.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info:
 
 news: false # includes a list of news items
@@ -25,6 +25,3 @@ I am Associate Professor of Languages and Computer Science at the department of 
 - Information Extraction
 - User Modeling
 - Adaptive Assessment
-
-## Main publications
-[Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)
