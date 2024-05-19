@@ -25,3 +25,7 @@ I am Associate Professor of Languages and Computer Science at the department of 
 - Information Extraction
 - User Modeling
 - Adaptive Assessment
+
+## Contact me
+
+![](/assets/img/email.png)
