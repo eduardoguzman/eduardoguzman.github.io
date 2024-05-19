@@ -8,10 +8,10 @@ nav_order: 6
 ---
 
 ## Current teaching
-- *Tecnologías de Aplicaciones Web* (Grado en Ingeniería del Software).
-- *Sistemas Multiagente* (Máster Universitario en Ingeniería del Software e Inteligencia Artificial).
-- *Análisis Visual de Datos* (Máster Universitario en Ingeniería Informática).
-- *Sistemas de Información y estrategias de innovación y tecnológicas* (Máster Interuniversitario en Transformación Digital de Empresas, con Mención Dual).
+- **Tecnologías de Aplicaciones Web** | Grado en Ingeniería del Software.
+- **Sistemas Multiagente** | Máster Universitario en Ingeniería del Software e Inteligencia Artificial.
+- **Análisis Visual de Datos** | Máster Universitario en Ingeniería Informática.
+- **Sistemas de Información y estrategias de innovación y tecnológicas** | Máster Interuniversitario en Transformación Digital de Empresas (con Mención Dual).
 
 [//]: ## Previous teaching
 
