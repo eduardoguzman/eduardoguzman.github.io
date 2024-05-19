@@ -25,7 +25,7 @@ I am Associate Professor of Languages and Computer Science at the department of 
 - User Modeling
 - Adaptive Assessment
 
-## Contact me
+## Contact info.
 
 E.T.S. de Ingeniería Informática.\
 Universidad de Málaga.\
