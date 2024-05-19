@@ -63,6 +63,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-
-## More publications
-[Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)

@@ -13,3 +13,7 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+
+## More publications
+[Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)
