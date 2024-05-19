@@ -8,7 +8,7 @@ profile:
   align: right
   image: guzman2.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,8 +27,8 @@ I am Associate Professor of Languages and Computer Science at the department of 
 
 ## Contact me
 
-E.T.S. de Ingeniería Informática.
-Universidad de Málaga.
-Bulevar Louis Pasteur, 35. Campus de Teatinos.
-Málaga, Spain</p>
+E.T.S. de Ingeniería Informática.\
+Universidad de Málaga.\
+Bulevar Louis Pasteur, 35. Campus de Teatinos.\
+Málaga, Spain.\
 ![](/assets/img/email.png)
