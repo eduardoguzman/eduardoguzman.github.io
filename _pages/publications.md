@@ -16,7 +16,6 @@ nav_order: 2
 
 <br/>
 <br/>
-<div>
+
 ## More publications
 [Google Scholar profile](https://scholar.google.es/citations?user=gtfQux8AAAAJ)
-</div>
