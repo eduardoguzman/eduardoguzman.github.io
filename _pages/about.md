@@ -6,7 +6,7 @@ subtitle: <a href='https://ia2-uma.github.io'>(IA)2</a> | <a href='http://www.in
 
 profile:
   align: right
-  image: edu3.png
+  image: edu_3.png
   image_circular: false # crops the image to make it circular
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Associate Professor of Languages and Computer Science at the department of Languages and Compute Science, in the School of Computer Science, Universidad de Málaga (Spain). I hold a Ph.D. and a M.Sc in Computer Science from this university. I work in [(IA)2](https://ia2-uma.github.io) research group developing AI-based solutions to solve complex problems. We also develop full-stack web and mobile applications, most of which integrate AI-based technologies.
+I am an Associate Professor of Languages and Computer Science at the Department of Languages and Compute Science, the School of Computer Science, Universidad de Málaga (Spain). I hold a Ph.D. and a M.Sc in Computer Science from this university. I work in the research group  [(IA)2](https://ia2-uma.github.io), developing AI-based solutions to solve complex problems. We also develop full-stack web and mobile applications, most of which integrate AI-based technologies.
 
 ## Main research interests
 - Applied Data Science
@@ -22,6 +22,7 @@ I am Associate Professor of Languages and Computer Science at the department of 
 - Agent-Based Modeling and Simulation
 - Multiagent Reinforcement Learning
 - Information Extraction
+- Data Engineering and Visualization
 - User Modeling
 - Adaptive Assessment
 
